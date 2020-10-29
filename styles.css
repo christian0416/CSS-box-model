@@ -1,0 +1,29 @@
+body {
+    color:gray;
+    background-color: rgb(244, 245, 240);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    border: 2px solid black;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    padding: 5px;
+    padding-bottom: 15px;
+}
+
+.navigation {
+    display: inline;
+}
+
+.main {
+    border: 2px solid black;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    padding: 15px;
+}
+
+li {
+    list-style-type: none;
+}
